@@ -1,0 +1,1 @@
+<?php $isim = "Tarık"; echo $isim;  ?>
