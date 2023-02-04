@@ -17,7 +17,7 @@ $isim = 'Tarık';
 $soyisim = 'Kahveci';
 $yas = 26;
 echo 'Merhaba, benim ismim '. $isim.' soyismim '.$soyisim.'. Şuan '.$yas.' yaşımdayım.';
-// Ekrana "Merhaba, benim ismim Şahin soyismim Ersever. Şuan 27 yaşımdayım." sonucunu yazar.
+// Ekrana "Merhaba, benim ismim Tarık soyismim Kahveci. Şuan 27 yaşımdayım." sonucunu yazar.
 
 ?>
 
